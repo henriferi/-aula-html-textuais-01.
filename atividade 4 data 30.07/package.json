@@ -1,0 +1,14 @@
+{
+  "name": "atividade-4",
+  "version": "1.0.4",
+  "description": "atividade 4",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "atividade",
+    "4"
+  ],
+  "author": "Celio Henrique",
+  "license": "ISC"
+}

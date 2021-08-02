@@ -1,0 +1,14 @@
+{
+  "name": "atividade-2",
+  "version": "1.0.2",
+  "description": "atividade",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atividade"
+  ],
+  "author": "Celio Henrique",
+  "license": "ISC"
+}
